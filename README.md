@@ -1,10 +1,10 @@
 Hi there, I'm Nizar 👋
 
 - 👀 I’m interested in Business Central/AL
-- 🌱 I’m currently learning AL (BC), C#(ASP.Net Core MV), JS(Vue JS, React JS), and PHP (CI/Laravel)
-- 💞️ I’m looking to collaborate on Business Central
+- 🌱 I’m currently learning AL (BC), C#(ASP.Net Core MVC), JS(Vue Js,React Js), and PHP (CI/Laravel)
+- 💞️ I’m looking to collaborate on Business Central or ASP.Net Core MVC
 - 📫 How to reach me nizar.ilkom@gmail.com
-- 🥅 2022 Goals: Upgrade Skill Programming
+- 🥅 2022 - 2023 Goals: Upgrade Skill Programming - C/AL & ASP.Net Core MVC
 
 **Connect with me:**
 
